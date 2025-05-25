@@ -68,3 +68,12 @@ The idea that cybercrime has moved from amateur hackers to highly funded crimina
 It was also interesting to see how defenses evolve in response to attacks, and how some strategies (like user awareness and layered security) have remained important through every era.
 
 This topic helped me understand that cybersecurity is not static it must keep evolving to stay ahead of threats.
+
+| Era           | Key Threats                   | Common Defenses                  |
+|---------------|-------------------------------|----------------------------------|
+| 1960s–1970s    | Physical intrusion             | Passwords, physical security     |
+| 1980s–1990s    | Viruses, worms                | Antivirus, firewalls             |
+| 1990s–2000s    | Phishing, trojans             | IDS, email filtering             |
+| 2000s–2010s    | Ransomware, fraud             | SOCs, encryption, regulations    |
+| Today          | APTs, AI attacks, deepfakes   | ML, threat intelligence, Zero Trust |
+
