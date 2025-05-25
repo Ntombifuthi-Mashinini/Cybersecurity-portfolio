@@ -60,3 +60,22 @@ Personal Reflection
 I’ve learned that frameworks like NIST and ISO 27001 are essential for creating structured and repeatable processes in cybersecurity. Controls, on the other hand, are the tools and rules that put those frameworks into action.
 
 It’s impressive how a mix of people, processes, and technology is needed to build an effective defense. This topic emphasized that security is not just about tools it’s about strategy, governance, and continuous improvement.
+
+Comparison of Common Security Frameworks
+
+| Framework           | Scope                              | Best For                      | Key Features                            |
+|---------------------|-------------------------------------|-------------------------------|----------------------------------------|
+| NIST CSF            | U.S.-centric, flexible              | Organizations of all sizes   | 5 core functions: Identify, Protect, Detect, Respond, Recover |
+| ISO/IEC 27001       | Global, formal certification        | Enterprises                   | ISMS, risk-based thinking              |
+| COBIT               | IT governance + management          | Enterprises with IT alignment goals | Governance framework             |
+| CIS Controls        | Practical & prioritized controls    | Small to mid-sized businesses | 18 actionable technical controls       |
+
+
+Types of Security Controls
+
+| Type              | Description                                | Examples                                 |
+|-------------------|--------------------------------------------|------------------------------------------|
+| Administrative    | Policy-based and people-oriented controls  | Training, incident response plans        |
+| Technical         | Technology-based controls                  | Encryption, firewalls, multi-factor auth |
+| Physical          | Environmental and physical safeguards      | Cameras, biometrics, secure facilities   |
+
